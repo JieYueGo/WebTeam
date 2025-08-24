@@ -28,6 +28,28 @@
 
 ## 🎯 如何使用
 
+使用前确保:
+
+操作系统: macOS 10.15+、Ubuntu 20.04+/Debian 10+ 或 Windows 10+（使用 WSL 1、WSL 2 或 Git for Windows）
+硬件: 4GB+ 内存
+软件: Node.js 18+
+网络: 需要互联网连接进行认证和 AI 处理
+Shell: 在 Bash、Zsh 或 Fish 中效果最佳
+已经下载本项目到本地并解压
+
+使用npm安装
+
+```
+npm install -g @anthropic-ai/claude-code
+```
+
+安装过程完成后，导航到本项目地址并启动 Claude Code：
+
+```
+cd WebTeam
+claude
+```
+
 ### 第一步：召唤产品经理
 ```bash
 @产品经理 [你的产品想法]
