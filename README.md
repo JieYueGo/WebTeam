@@ -87,7 +87,7 @@ claude
 ## 📁 项目结构
 
 ```
-DevelopmentTeam/
+WebTeam/
 ├── CLAUDE.md          # 团队使用指南
 ├── claude/
 │   └── prompts/
