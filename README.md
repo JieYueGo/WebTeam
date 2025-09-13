@@ -34,6 +34,8 @@
 
 且 已经下载本项目到本地并解压
 
+使用Claude Code/Trae/Cursor/Code Buddy打开
+
 
 ### 第一步：召唤产品经理
 ```bash
