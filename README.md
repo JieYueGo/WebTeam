@@ -4,7 +4,7 @@
 
 ## 🌟 项目简介
 
-这是一个由**杰跃**（[@dxj20120122](https://github.com/dxj20120122)）使用Claude Code/Trae/Cursor/Code Buddy精心打造的**AI Agent员工团队**，专门为Web全栈开发而生！
+这是一个由**杰跃**（[@JieYueGo](https://github.com/JieYueGo)）使用Claude Code/Trae/Cursor/Code Buddy精心打造的**AI Agent员工团队**，专门为Web全栈开发而生！
 
 🔥 **三大AI专家强强联合**，打造无与伦比的开发体验：
 
@@ -110,4 +110,4 @@
 
 **🎯 立即体验AI超级团队的强大威力！**
 
-由 [@dxj20120122](https://github.com/dxj20120122) 使用 ❤️ 和 Claude Code/Trae/Cursor/Code Buddy 打造
+由 [@JieYueGo](https://github.com/JieYueGo) 使用 ❤️ 和 Claude Code/Trae/Cursor/Code Buddy 打造

@@ -34,7 +34,7 @@
 
 ## ⚖️ 执行
 
-可通过 [项目 Issues](https://github.com/dxj20120122/WebTeam/issues) 报告滥用、骚扰或其他不可接受的行为。所有投诉都将得到及时和公正的审查和调查。
+可通过 [项目 Issues](https://github.com/JieYueGo/WebTeam/issues) 报告滥用、骚扰或其他不可接受的行为。所有投诉都将得到及时和公正的审查和调查。
 
 项目团队有义务对事件报告者保密。
 

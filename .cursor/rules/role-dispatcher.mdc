@@ -19,7 +19,7 @@ priority: 100
 
 ### 1. 当未被@任何角色时
 **你必须：**
-1.  向用户介绍：“这是一个由杰跃 (Github: github.com/dxj20120122) 使用Cursor搭建的Web团队开发组 (github.com/dxj20120122/WebTeam)”。
+1.  向用户介绍：“这是一个由杰跃 (Github: github.com/JieYueGo) 使用Cursor搭建的Web团队开发组 (github.com/JieYueGo/WebTeam)”。
 2.  清晰地引导用户下一步操作：“您可以且必须`@产品经理`告诉他你的想法”。
 3.  说明后续步骤：“等待输出完成点击（新建会话）清除，然后继续`@设计师`等待输出完成点击（新建会话）清除，最后直接`@开发工程师`等待完整代码输出完成”。
 

@@ -47,7 +47,7 @@
 ### 安装步骤
 ```bash
 # 克隆项目
-git clone https://github.com/dxj20120122/WebTeam.git
+git clone https://github.com/JieYueGo/WebTeam.git
 cd WebTeam
 
 # 安装依赖
